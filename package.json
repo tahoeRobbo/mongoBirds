@@ -1,0 +1,29 @@
+{
+  "name": "mongo-birds",
+  "version": "1.0.0",
+  "description": "mini project to get comfy with mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahoeRobbo/mongoBirds.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongoDB"
+  ],
+  "author": "Robert R Hallowell --tahoeRobbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahoeRobbo/mongoBirds/issues"
+  },
+  "homepage": "https://github.com/tahoeRobbo/mongoBirds#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.0",
+    "mongojs": "^1.0.1"
+  }
+}
